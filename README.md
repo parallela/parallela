@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi there, my name is Lubomir 
 
-<!--
-**parallela/parallela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙄 Who am I?
+* 🌎 Fullstack Web Developer with 5+ year experience.
+* 🍺 Beer person.
+* 🥊 Kickboxing lover.
 
-Here are some ideas to get you started:
+#### 👷🏼‍♂️ Currently working on:
+- [CovidBG](https://github.com/parallela/CovidBulgaria-Mobile)
+  `Mobile application based on covidbulgaria.com`
+- [CovidBulgaria.com](https://github.com/parallela/covidbulgaria.com)
+- [Cloudesk.space](https://cloudesk.space)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📞 Contacts: 
+
+* Mobile number: +359882873911
+* Email: me@lstankov.me
