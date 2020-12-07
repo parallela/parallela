@@ -2,8 +2,9 @@
 
 ## 🙄 Who am I?
 * 🌎 Fullstack Web Developer with 5+ year experience.
-* 🍺 Beer person.
+* 🍺 In love with beer.
 * 🥊 Kickboxing lover.
+* 👨🏼‍🎓 Student at University of Ruse "Angel Kanchev" (Software Engeneering.)
 
 #### 👷🏼‍♂️ Currently working on:
 - [CovidBG](https://github.com/parallela/CovidBulgaria-Mobile)
