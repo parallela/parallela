@@ -2,7 +2,7 @@
 
 ## 🙄 Who am I?
 * 🌎 Fullstack Web Developer with 5+ year experience.
-* 🍺 In love with beer.
+* 🍺 In love with beer & Borislava .
 * 🥊 Kickboxing lover.
 * 👨🏼‍🎓 Student at University of Ruse "Angel Kanchev" (Software Engeneering.)
 
