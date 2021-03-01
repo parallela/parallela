@@ -5,6 +5,7 @@
 * 🍺 In love with beer & Borislava .
 * 🥊 Kickboxing lover.
 * 👨🏼‍🎓 Student at University of Ruse "Angel Kanchev" (Software Engeneering.)
+* 🏢 Web Developer at <a href='https://donatix.net/'>Donatix</a> 
 
 #### 👷🏼‍♂️ Currently working on:
 - [CovidBG](https://github.com/parallela/CovidBulgaria-Mobile)
