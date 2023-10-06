@@ -4,7 +4,6 @@
 * 🌎 Fullstack Web Developer with 5+ year experience.
 * 🍺 In love with beer.
 * 🥊 Kickboxing lover.
-* 👨🏼‍🎓 Student at University of Ruse "Angel Kanchev" (Software Engeneering.)
 * 🏢 Web Developer at <a href='https://donatix.net/'>Donatix</a> 
 
 #### 👷🏼‍♂️ Currently working on:
