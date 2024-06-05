@@ -1,17 +1,10 @@
 ### 👋 Hi there, my name is Lubomir 
 
 ## 🙄 Who am I?
-* 🌎 Fullstack Web Developer with 5+ year experience.
+* 🌎 Fullstack Web Developer (Lead) with 5+ year experience.
 * 🍺 In love with beer.
 * 🥊 Kickboxing lover.
-* 🏢 Web Developer at <a href='https://donatix.net/'>Donatix</a> 
-
-#### 👷🏼‍♂️ Currently working on:
-- [CovidBG](https://github.com/parallela/CovidBulgaria-Mobile)
-  `Mobile application based on covidbulgaria.com`
-- [CovidBulgaria.com](https://github.com/parallela/covidbulgaria.com)
-- [Cloudesk.space](https://cloudesk.space)
-
+* 🏢 Tech Manager of at <a href='https://sgtautotransport.net/'>SGT Auto Transport</a> 
 
 ## 📞 Contacts: 
 
