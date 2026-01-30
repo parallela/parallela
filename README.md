@@ -8,4 +8,4 @@
 ## 📞 Contacts: 
 
 * Mobile number: +359882873911
-* Email: me@lstankov.me
+* Email: me@lstan.eu
